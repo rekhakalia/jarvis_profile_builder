@@ -7,11 +7,11 @@
 > - For your reference, the original resume template file is in the Github repo [here](https://github.com/jarviscanada/jarvis_resume_builder/blob/master/resume_template.md)
 > - you will need to update the project description before the MCR.
 
-# John Smith . Jarvis Consulting
+# Rekha Kalia . Jarvis Consulting
 
 >Use this section to introduce yourself, your academic and professional background, what excites you about the data engineering industry and some of your hobbies. 100-150 words
 
-Donec fermentum, lectus tempor lobortis egestas, dolor dolor rhoncus justo, id pharetra odio ligula quis odio. Morbi blandit id quam eget porttitor. Integer at ullamcorper dolor, at egestas turpis. Fusce ultricies justo tellus, a congue augue aliquet sit amet. Quisque ultrices dolor eu turpis malesuada interdum. Suspendisse in nisl et massa laoreet sodales. Nulla quis lectus sit amet velit finibus feugiat eget nec quam. Praesent eget nibh et diam mollis venenatis. Mauris mi eros, varius in elit ut, ornare commodo magna. Nullam lacinia sapien pulvinar cursus tincidunt. Nam neque magna, accumsan a mi vel, tempor tristique nisl. Maecenas accumsan dignissim.
+As a recent graduate of McMaster University with a Bachelor of Arts in Economics and a minor in Business, I am excited to bring my passion for analysis, strategic thinking, and collaborative problem-solving to the company. With three enriching summers spent at Intellect as a Business Analyst, I've had the privilege of immersing myself in diverse projects, learning from seasoned professionals, and refining my skills in a dynamic business environment. My academic foundation, coupled with hands-on experience and a genuine enthusiasm for working with people, fuels my commitment to delivering exceptional results and driving continuous improvement. I thrive on challenges, and I am eager to contribute my insights and expertise to your team's success.
 
 ## Skills
 
